@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <style name="BaseAppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="android:windowTranslucentStatus">true</item>
+        <item name="android:windowTranslucentNavigation">true</item>
+        <item name="android:windowTitleBackgroundStyle">@drawable/city_title2</item>
+    </style>
+
+<!--    <style name="BaseAppTheme" parent="Theme.AppCompat.Light.DarkActionBar" tools:ignore="DuplicateDefinition">-->
+<!--        &lt;!&ndash; Customize your theme here. &ndash;&gt;-->
+<!--        <item name="android:windowTranslucentStatus">true</item>-->
+<!--        <item name="android:windowTranslucentNavigation">true</item>-->
+<!--        <item name="android:windowTitleBackgroundStyle">@drawable/city_title2</item>-->
+<!--    </style>-->
+</resources>

@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ZCWeather</string>
+    <string name="menu_item1">管理城市</string>
+    <string name="todo">TODO</string>
+</resources>
